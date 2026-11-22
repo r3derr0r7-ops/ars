@@ -8,7 +8,7 @@ atOptions = {
     'width': 728,
     'params': {}
 };
-document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/ea7073a5f88001ce3ea7a9725829313d/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="//https://bicea.org/22/ea7073a5f88001ce3ea7a9725829313d"></scr' + 'ipt>');
 
 document.write('</div>');
 document.write('</div>');
